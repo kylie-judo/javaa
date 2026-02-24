@@ -8,7 +8,7 @@ public class calc {
 
     public static void main(String[] args) {
         // 2. Data for different transactions
-        double laptopPrice = 1200.00;
+        double laptopPrice = 1200.00; 
         double headphonesPrice = 150.00;
         double currentTax = 0.07; // 7% tax
 

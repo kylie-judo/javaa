@@ -1,9 +1,9 @@
 public class smartphone {
     int batteryLevel;
 
-    // CONSTRUCTOR: This runs automatically when you use 'new'
+    // CONSTRUCTOR: This runs auto  matically when you use 'new'
     public smartphone() {
-        batteryLevel = 100;
+        batteryLevel = 70;
     }
 
     public static void main(String[] args) {
@@ -11,6 +11,6 @@ public class smartphone {
         smartphone myPhone = new smartphone();
 
         // Print the result to prove the constructor worked
-        System.out.println("Phone battery is at: " + myPhone.batteryLevel + "%");
+        System.out.println("Phone battery is a  t: " + myPhone.batteryLevel + "%");
     }
 }
